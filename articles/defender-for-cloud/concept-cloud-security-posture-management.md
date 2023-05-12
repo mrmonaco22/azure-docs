@@ -47,7 +47,7 @@ Learn more about [Defender CSPM pricing](https://azure.microsoft.com/pricing/det
 
 The following table summarizes each plan and their cloud availability.
 
-| Feature | Foundational CSPM capabilities | Defender CSPM | Cloud availability |
+| Feature | Foundational CSPM | Defender CSPM | Cloud availability |
 |--|--|--|--|
 | [Security recommendations to fix misconfigurations and weaknesses](review-security-recommendations.md) | :::image type="icon" source="./media/icons/yes-icon.png"::: | :::image type="icon" source="./media/icons/yes-icon.png":::| Azure, AWS, GCP, on-premises |
 | [Asset inventory](asset-inventory.md) | :::image type="icon" source="./media/icons/yes-icon.png"::: | :::image type="icon" source="./media/icons/yes-icon.png"::: | Azure, AWS, GCP, on-premises |
